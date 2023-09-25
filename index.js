@@ -66,4 +66,4 @@ function Replay(guessRandomNumber = getRandomNumber) {
   }
 }
 
-Replay(guessRandomNumber); // Appel de la fonction --> ! Important d'appeler sinon pas utilisé en dehors de la fonction
+Replay(guessRandomNumber); // Appel de la fonction --> ! Important d'appeler sinon pas utilisé en dehors de la fonction.
